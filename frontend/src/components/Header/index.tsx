@@ -1,5 +1,5 @@
-import lobo from '../../assets/img/lobo.svg'
-import './styles.css'
+import lobo from '../../assets/img/lobo.svg';
+import './styles.css';
 function Header() {
     return(
         <header>
@@ -15,5 +15,5 @@ function Header() {
     )
   }
   
-  export default Header
+  export default Header;
   
